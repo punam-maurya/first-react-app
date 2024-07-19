@@ -25,7 +25,7 @@ export default function Home() {
               priority
             />
           </a>
-          <h1>my name is punam maurya</h1>
+          <h1>my name  punam maurya</h1>
         </div>
 
       </div>
